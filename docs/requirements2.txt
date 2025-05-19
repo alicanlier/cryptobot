@@ -1,0 +1,17 @@
+wsproto
+urllib3
+typing_extensions
+trio-websocket
+selenium
+sniffio
+sortedcontainers
+outcome
+pycparser
+h11
+idna
+attrs
+bidict
+certifi
+exceptiongroup
+
+pip install -r C:\Users\A\Desktop\my-PT\crypto_bot\docs\requirements.txt
